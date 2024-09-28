@@ -8,7 +8,7 @@ This project is a Python-based web scraper that collects data from Amazon wishli
 - Supports multiple wishlist URLs.
 - Automatically scrolls to the end of each wishlist.
 - CAPTCHA handling in place in case of issues.
-- Stores scraped data in CSV format or a PostgreSQL database.
+- Stores scraped data in a PostgreSQL database.
 
 ## Setup and Installation
 
