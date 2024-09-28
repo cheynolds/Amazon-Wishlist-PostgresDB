@@ -54,11 +54,11 @@ This project is a Python-based web scraper that collects data from Amazon wishli
      ```
 
 5. Set up your wishlist URLs:
-   - The scraper reads wishlist URLs from a `wishlist_url.txt` file.
-   - Copy the sample file provided (`wishlist_url_sample.txt`) and rename it to `wishlist_url.txt`:
+   - The scraper reads wishlist URLs from a `wishlist_URL.txt` file.
+   - Copy the sample file provided (`wishlist_URL.sample.txt`) and rename it to `wishlist_URL.txt`:
      
      ```bash
-     cp wishlist_url_sample.txt wishlist_url.txt
+     cp wishlist_URL.sample.txt wishlist_URL.txt
      ```
 
    - Replace the sample URLs with actual Amazon wishlist URLs.
