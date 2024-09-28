@@ -1,0 +1,23 @@
+# Ignore environment variables
+.env
+
+# Ignore Python virtual environments
+venv/
+venv_scraper/
+venv_app/
+venv_webServer/
+
+# Ignore system files
+.DS_Store
+
+# Ignore compiled files and caches
+__pycache__/
+*.py[cod]
+*.pkl
+
+# Ignore WebDriver binaries (e.g., ChromeDriver, GeckoDriver)
+chromedriver
+geckodriver
+
+# Ignore wishlist URL file
+wishlist_url.txt

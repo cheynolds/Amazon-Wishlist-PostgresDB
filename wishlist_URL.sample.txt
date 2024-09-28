@@ -1,0 +1,3 @@
+# Sample file for wishlist URLs
+https://www.amazon.com/hz/wishlist/ls/sample_wishlist_1
+https://www.amazon.com/hz/wishlist/ls/sample_wishlist_2
