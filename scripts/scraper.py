@@ -13,6 +13,7 @@ import os
 import psycopg2
 import pickle
 
+load_dotenv()  # This loads environment variables from the .env file
 # PostgreSQL connection setup
 db_config = {
     'dbname': os.getenv('DB_NAME'),
