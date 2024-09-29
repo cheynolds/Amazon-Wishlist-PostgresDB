@@ -2,10 +2,8 @@
 .env
 
 # Ignore Python virtual environments
-venv/
-venv_scraper/
-venv_app/
-venv_webServer/
+venv*/
+
 
 # Ignore system files
 .DS_Store
